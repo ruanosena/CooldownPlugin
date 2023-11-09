@@ -1,0 +1,8 @@
+name: CooldownPlugin
+version: '${project.version}'
+main: io.github.ruanosena.cooldownplugin.CooldownPlugin
+api-version: '1.20'
+commands:
+  encherbarriga:
+    description: Enche a barriga e acaba com a fome
+    usage: Use /<command>
